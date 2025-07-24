@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradeep</h1>
-<h3 align="center">Associate Software Engineerr</h3>
+<h3 align="center">Associate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeep-hs&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep-hs" /> </p>
 
